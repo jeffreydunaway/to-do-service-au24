@@ -1,8 +1,15 @@
-# to-do-service
+# H1
+## H2
+### H3
+#### H4
+##### H5
+###### H6
 
-REST API Sample for shared documentation practice
+Alternatively, for H1 and H2, an underline-ish style:
 
-For the REST API docs, see [The To-Do Service docs](https://uwc2-apidoc.github.io/to-do-service-au24/).
+Alt-H1
+======
 
-**NOTE**: This code is experimental and is intended for instructional use only.
-Use at your own risk. No warranty of servicability is expressed or implied.
+Alt-H2
+------
+Unsure what the above means. ///Hopefully this works. Takeone.
